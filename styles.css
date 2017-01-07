@@ -1,0 +1,27 @@
+body {
+    font-family : arial, sans-serif;
+    font-size: 10pt;
+}
+
+button {
+    margin: 1em;
+}
+
+h1 {
+    color: blue;
+}
+
+table td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    vertical-align: middle;
+}
